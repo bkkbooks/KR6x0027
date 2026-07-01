@@ -1,0 +1,248 @@
+canonical_identifier: bkk:krp/KR6x0027/v1
+canonical_location: https://kanripo.org/bkk/KR6x0027/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 人施設論
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/N/N50/N50n0027.xml
+    old_id: N50n0027
+  edition:
+    short: bkk
+editions:
+- short: 南傳
+  label: 南傳
+  source_xml_id: wit.orig
+- short: 'N'
+assets:
+  parts:
+  - {seq: 1, filename: KR6x0027_001.yaml, hash: 'sha256:f99367a2133f9fb10944b189f581c6a41a6dbf5d971a4633509159cf94187246'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6x0027_001.markers.yaml, hash: 'sha256:8d7f23b93b51376fa86ffbe33b29a7f1645e4796a20b267fdc277824494383f1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-juan-start
+    span:
+    - body
+    - 0
+    - 29217
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 論母
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 一　〔一人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-3
+    span:
+    - body
+    - 548
+    - 548
+  label: 二　〔二人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-4
+    span:
+    - body
+    - 727
+    - 727
+  label: 三　〔三人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-5
+    span:
+    - body
+    - 1054
+    - 1054
+  label: 四　〔四人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-6
+    span:
+    - body
+    - 2040
+    - 2040
+  label: 五　〔五人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-7
+    span:
+    - body
+    - 2324
+    - 2324
+  label: 六　〔六人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-8
+    span:
+    - body
+    - 2535
+    - 2535
+  label: 七　〔七人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-9
+    span:
+    - body
+    - 2627
+    - 2627
+  label: 八　〔八人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-10
+    span:
+    - body
+    - 2643
+    - 2643
+  label: 九　〔九人〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-11
+    span:
+    - body
+    - 2671
+    - 2671
+  label: 十　〔十心〕
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-12
+    span:
+    - body
+    - 2700
+    - 2700
+  label: 第一章　一人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-13
+    span:
+    - body
+    - 5299
+    - 5299
+  label: 第二章　二人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-14
+    span:
+    - body
+    - 8526
+    - 8526
+  label: 第三章　三人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-15
+    span:
+    - body
+    - 13628
+    - 13628
+  label: 第四章　四人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-16
+    span:
+    - body
+    - 24798
+    - 24798
+  label: 第五章　五人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-17
+    span:
+    - body
+    - 27521
+    - 27521
+  label: 第六章　六人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-18
+    span:
+    - body
+    - 27813
+    - 27813
+  label: 第七章　七人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-19
+    span:
+    - body
+    - 28546
+    - 28546
+  label: 第八章　八人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-20
+    span:
+    - body
+    - 28629
+    - 28629
+  label: 第九章　九人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6x0027_N_001-mulu-21
+    span:
+    - body
+    - 29093
+    - 29093
+  label: 第十章　十人
+  type: mulu
+  level: 1
+hash: sha256:f780789da91ae523d19ecc6fceb10e2313a2f582880b33b91a37b5603d282552
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
