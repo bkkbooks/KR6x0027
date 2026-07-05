@@ -18,9 +18,9 @@ editions:
 - short: 'N'
 assets:
   parts:
-  - {seq: 1, filename: KR6x0027_001.yaml, hash: 'sha256:f99367a2133f9fb10944b189f581c6a41a6dbf5d971a4633509159cf94187246'}
+  - {seq: 1, filename: KR6x0027_001.yaml, hash: 'sha256:7b13744b257b652dca226f314779c2aec434d1d436fd104b3a11cf12e3f4763f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6x0027_001.markers.yaml, hash: 'sha256:8d7f23b93b51376fa86ffbe33b29a7f1645e4796a20b267fdc277824494383f1'}
+  - {seq: 1, role: markers, filename: assets/KR6x0027_001.markers.yaml, hash: 'sha256:ed3c348d16579aaa5477bd26c220e47747110e7fd25880cf4dc882ea6c407dbe'}
 table_of_contents:
 - ref:
     seq: 1
@@ -242,7 +242,4 @@ table_of_contents:
   label: 第十章　十人
   type: mulu
   level: 1
-hash: sha256:f780789da91ae523d19ecc6fceb10e2313a2f582880b33b91a37b5603d282552
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:559a7a9a8fa2caf0349ef1dfa679e4b19e955bc90cf8a9bff9720356d280a58b
